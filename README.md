@@ -29,5 +29,4 @@ You are required to model the probability of attrition using a logistic regressi
         b.	What roles have the lowest job satisfaction levels?
 4.	What are the average performance ratings?
 
-  ![dashboard_1](images/XYZPeopleAnalyticsdashboard1.jpg)
-  ---
+---
